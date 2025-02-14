@@ -1,19 +1,15 @@
-# 🎈 Blank app template
+# Valentines Day  
 
-A simple Streamlit app template for you to modify!
+## Description  
+This project generates personalized love letters based on the husband's name. It's a simple yet heartfelt way to create customized messages for Valentine's Day.  
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Installation  
 
-### How to run it on your own machine
+### Prerequisites  
+Make sure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).  
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+### Steps  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/valentines-day.git
+   cd valentines-day
